@@ -26,7 +26,7 @@ This project analyzes e-commerce sales data using SQL, Python, and Power BI to g
 
 # Dashboard Preview
 
-(Add dashboard screenshot here)
+https://github.com/VKSharma117/E-commerce-sales-analysis-dashboard/blob/main/dashboard/Dashboard.png?raw=true
 
 # Files Included
 
